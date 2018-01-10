@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Camel1Application {
 
 	public static void main(String[] args) {
+		//임시 테스트
 		SpringApplication.run(Camel1Application.class, args);
 	}
 }
